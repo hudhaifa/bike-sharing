@@ -62,13 +62,13 @@ Given more time to work with this dataset, I would like to investigate addition
 
 TODO: Replace the image below with your own.
 
-(img/model_train_score.png)
+(model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-(img/model_test_score.png)
+(model_test_score.png)
 
 ## Summary
 - The AutoGluon AutoML framework for Tabular Data was thoroughly studied and incorporated into this bike sharing demand prediction project. 
